@@ -20,7 +20,7 @@
 <body>
 	<nav class="navbar bg-body-tertiary">
 		<div class="container-fluid">
-			<a class="navbar-brand" href="home.html"> <img
+			<a class="navbar-brand" href="home.jsp"> <img
 				src="./assets/suitcase-rolling-solid.svg" alt="Logo" width="30"
 				height="24" class="d-inline-block align-text-top"> PACK UR
 				BAGS
